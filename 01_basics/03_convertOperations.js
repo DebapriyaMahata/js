@@ -16,4 +16,4 @@ console.log(logg);//output->true
 //1->true
 // "debu"->true
 
-//EX: 4 same also for string
+//EX: 4 same also for strings
