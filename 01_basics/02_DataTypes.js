@@ -8,7 +8,7 @@
 //null-> standalone value
 //undefined->
 //symbol->unique
-//
+
 
 let name="debu"//string
 let age=21;//number
@@ -20,5 +20,7 @@ let project;//undefined
 
 console.log(typeof(name));
 console.log(typeof null); //ans:object
+console.log(typeof(undefined));//undefined
+
 
 
